@@ -1,2 +1,2 @@
 # Hello-world
-First repository
+First repository in GitHub by Miriam Heller
